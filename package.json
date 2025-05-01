@@ -1,0 +1,30 @@
+{
+  "name": "tsmergesort",
+  "version": "1.0.0",
+  "description": "A TypeScript Project for Primo Test",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SStepz/TSMergeSort.git"
+  },
+  "keywords": [
+    "ts",
+    "TypeScript"
+  ],
+  "author": "SStepz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SStepz/TSMergeSort/issues"
+  },
+  "homepage": "https://github.com/SStepz/TSMergeSort#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.2",
+    "typescript": "^5.8.3"
+  }
+}
