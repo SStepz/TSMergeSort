@@ -1,4 +1,4 @@
-# 🔀 Merge Three Arrays (RSA-Free)
+# 🔀 Merge Three Arrays
 
 This TypeScript project merges three arrays (two sorted in ascending order and one in descending order) into a single ascending array without using any sort function. Includes unit tests using Jest.
 
